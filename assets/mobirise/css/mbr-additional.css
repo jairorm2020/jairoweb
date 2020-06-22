@@ -1112,11 +1112,10 @@ section.lazy-placeholder:after {
 }
 .cid-s2Gnt7j6ay {
   background: #ffffff;
-  padding-top: 75px;
-  padding-bottom: 60px;
 }
 .cid-s2Gnt7j6ay .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-s2Gnt7j6ay .video-block {
